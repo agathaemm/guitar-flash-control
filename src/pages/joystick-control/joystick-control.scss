@@ -1,0 +1,26 @@
+page-joystick-control {
+    .tile {
+        width: 100vw;
+        height: 20vh;
+
+        &.red {
+            background: red;
+        }
+
+        &.blue {
+            background: blue;
+        }
+
+        &.green {
+            background: green;
+        }
+
+        &.yellow {
+            background: yellow;
+        }
+
+        &.orange {
+            background: orange;
+        }
+    }
+}
